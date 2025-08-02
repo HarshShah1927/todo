@@ -3,7 +3,7 @@
   "outputDirectory": ".next",
   "framework": "nextjs",
   "functions": {
-    "app/**/*.{js,ts,jsx,tsx}": {
+    "api/**/*.{js,ts}": {
       "runtime": "nodejs18.x"
     }
   }
